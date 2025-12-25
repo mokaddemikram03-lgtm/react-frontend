@@ -1,13 +1,17 @@
 // App.js
+
 import React from "react";
 
 
-import Profil from "./components/Profil";
+
+
+//import OnHoldRooms from "./components/OnHoldRooms";
+import ValidRooms from "./components/ValidRooms";
 
 function App() {
   return (
     <div className="App">
-      <Profil />
+      <ValidRooms/>
     </div>
   );
 }

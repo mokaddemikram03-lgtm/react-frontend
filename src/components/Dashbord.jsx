@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Calendar } from "lucide-react";
 import { Users, UserCheck, BookOpen, Home } from "lucide-react";
 
-export default function Dashboard() {
+export default function Dashbord() {
   return (
     <Container>
 

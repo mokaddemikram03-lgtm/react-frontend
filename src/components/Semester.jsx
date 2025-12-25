@@ -11,7 +11,7 @@ import {
   Trash2,
 } from "lucide-react";
 
-export default function Years() {
+export default function Semester() {
   const [activeTab, setActiveTab] = useState("Semester");
 
   const [years] = useState([
